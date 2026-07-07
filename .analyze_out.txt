@@ -1,0 +1,470 @@
+Flutter assets will be downloaded from https://storage.flutter-io.cn. Make sure you trust this source!
+Analyzing coffee_app...                                         
+
+   info - Angle brackets will be interpreted as HTML - lib\core\domain\value_objects\domain_exceptions.dart:3:41 - unintended_html_in_doc_comment
+   info - Parameter 'message' could be a super parameter - lib\core\domain\value_objects\domain_exceptions.dart:17:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\domain\value_objects\domain_exceptions.dart:21:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\domain\value_objects\domain_exceptions.dart:25:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\domain\value_objects\domain_exceptions.dart:29:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\domain\value_objects\domain_exceptions.dart:41:9 - use_super_parameters
+   info - Parameter 'message' could be a super parameter - lib\core\domain\value_objects\domain_exceptions.dart:45:9 - use_super_parameters
+   info - The member 'value' overrides an inherited member but isn't annotated with '@override' - lib\core\domain\value_objects\result.dart:47:11 - annotate_overrides
+   info - The member 'error' overrides an inherited member but isn't annotated with '@override' - lib\core\domain\value_objects\result.dart:57:25 - annotate_overrides
+   info - Parameter 'locale' could be a super parameter - lib\core\localization\locale_state.dart:9:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_colors.dart:95:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_theme.dart:45:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_theme.dart:58:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_theme.dart:123:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_theme.dart:185:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\theme\app_theme.dart:239:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:28:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:40:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:45:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:60:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:64:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:79:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:132:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:134:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:141:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\animated_stat_card.dart:154:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\glass_nav_bar.dart:35:20 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\glass_nav_bar.dart:38:63 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\glass_nav_bar.dart:43:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\glass_nav_bar.dart:115:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\glass_nav_bar.dart:128:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\glow_button.dart:37:22 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_button.dart:115:26 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_button.dart:173:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_button.dart:174:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_button.dart:217:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_button.dart:220:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_card.dart:41:36 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_card.dart:45:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_card.dart:52:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_card.dart:119:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_floating_nav_bar.dart:54:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_floating_nav_bar.dart:55:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_floating_nav_bar.dart:56:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_floating_nav_bar.dart:59:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_floating_nav_bar.dart:110:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\luxury_floating_nav_bar.dart:195:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:178:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:185:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:203:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:204:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:217:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:218:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:247:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\magical_theme_switcher.dart:248:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\core\widgets\premium_card.dart:39:41 - deprecated_member_use
+   info - Dangling library doc comment - lib\core\widgets\widgets.dart:1:1 - dangling_library_doc_comments
+   info - Use interpolation to compose strings and values - lib\features\ai_assistant\cubit\ai_assistant_cubit.dart:96:13 - prefer_interpolation_to_compose_strings
+   info - The imported package 'http' isn't a dependency of the importing package - lib\features\ai_assistant\data\ai_assistant_repository.dart:7:8 - depend_on_referenced_packages
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_assistant\view\ai_history_page.dart:51:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_assistant\view\ai_history_page.dart:57:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_assistant\view\ai_history_page.dart:64:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_assistant\view\ai_history_page.dart:168:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\ai_assistant\widgets\chat_bubble.dart:44:35 - deprecated_member_use
+   info - The imported package 'http' isn't a dependency of the importing package - lib\features\chat\data\datasources\Gemini_service.dart:5:8 - depend_on_referenced_packages
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\pages\chat_page.dart:89:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\pages\chat_page.dart:127:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\pages\chat_page.dart:133:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\pages\chat_page.dart:151:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\pages\chat_page.dart:182:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:35:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:36:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:47:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:49:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:50:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:57:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:91:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\chat\presentation\widgets\chat_bubble.dart:92:63 - deprecated_member_use
+warning - The value of the local variable 'txnDataSource' isn't used - lib\features\inventory\data\datasources\inventory_local_datasource.dart:124:13 - unused_local_variable
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:40:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:43:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:49:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:52:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:57:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:59:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:79:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\data\repositories\hive_inventory_repository.dart:82:5 - avoid_print
+  error - Abstract classes can't be instantiated - lib\features\inventory\domain\usecases\inventory_usecases.dart:44:22 - instantiate_abstract_class
+  error - The named parameter 'code' isn't defined - lib\features\inventory\domain\usecases\inventory_usecases.dart:45:11 - undefined_named_parameter
+  error - Abstract classes can't be instantiated - lib\features\inventory\domain\usecases\inventory_usecases.dart:129:22 - instantiate_abstract_class
+  error - The named parameter 'code' isn't defined - lib\features\inventory\domain\usecases\inventory_usecases.dart:130:11 - undefined_named_parameter
+   info - The imported package 'bloc' isn't a dependency of the importing package - lib\features\inventory\presentation\bloc\inventory_cubit.dart:3:8 - depend_on_referenced_packages
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:35:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:40:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:46:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:52:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:56:11 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:62:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:70:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:80:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:92:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:99:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:101:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:105:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:112:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:114:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:118:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:125:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:127:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:131:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:144:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:151:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:168:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:172:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\bloc\inventory_cubit.dart:176:7 - avoid_print
+   info - The imported package 'freezed_annotation' isn't a dependency of the importing package - lib\features\inventory\presentation\cubit\inventory_cubit.dart:2:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: '../../../core/services/domain_event_bus.dart' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: 'package:coffee_app/features/inventory/presentation/cubit/inventory_cubit.freezed.dart' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:8:6 - uri_does_not_exist
+  error - Classes can only mix in mixins and classes - lib\features\inventory\presentation\cubit\inventory_cubit.dart:12:27 - mixin_of_non_class
+  error - The name '_InventoryState' isn't a type and can't be used in a redirected constructor - lib\features\inventory\presentation\cubit\inventory_cubit.dart:20:8 - redirect_to_non_class
+  error - Undefined class 'DomainEventBus' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:29:9 - undefined_class
+  error - Undefined class 'DomainEventBus' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:36:14 - undefined_class
+  error - The name 'InventoryConsumedEvent' isn't a type, so it can't be used as a type argument - lib\features\inventory\presentation\cubit\inventory_cubit.dart:47:18 - non_type_as_type_argument
+  error - The name 'StockReceivedEvent' isn't a type, so it can't be used as a type argument - lib\features\inventory\presentation\cubit\inventory_cubit.dart:51:18 - non_type_as_type_argument
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:58:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:64:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:70:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:81:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:83:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:94:16 - undefined_method
+  error - The method 'StockReceivedEvent' isn't defined for the type 'InventoryCubit' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:105:24 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:111:20 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:120:20 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:135:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:146:20 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:155:20 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:170:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:174:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\cubit\inventory_cubit.dart:179:18 - undefined_method
+   info - Unnecessary override - lib\features\inventory\presentation\cubit\inventory_cubit.dart:187:16 - unnecessary_overrides
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\pages\dashboard_page_fixed.dart:40:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\pages\dashboard_page_fixed.dart:152:28 - deprecated_member_use
+  error - Target of URI doesn't exist: '../../../injection_consumption.dart' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:3:8 - uri_does_not_exist
+   info - Parameter 'key' could be a super parameter - lib\features\inventory\presentation\pages\inventory_demo_page.dart:9:9 - use_super_parameters
+  error - The method 'getIt' isn't defined for the type 'InventoryDemoPage' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:14:22 - undefined_method
+   info - Parameter 'key' could be a super parameter - lib\features\inventory\presentation\pages\inventory_demo_page.dart:21:9 - use_super_parameters
+  error - The getter 'isActionSuccess' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:39:21 - undefined_getter
+  error - The getter 'actionMessage' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:39:46 - undefined_getter
+  error - The getter 'actionMessage' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:42:37 - undefined_getter
+  error - The getter 'error' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:48:21 - undefined_getter
+  error - The getter 'error' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:51:37 - undefined_getter
+  error - The getter 'isLoading' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:58:21 - undefined_getter
+  error - The getter 'items' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:58:40 - undefined_getter
+  error - The getter 'lowStockItems' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:65:25 - undefined_getter
+  error - The getter 'lowStockItems' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:86:32 - undefined_getter
+  error - The getter 'items' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:99:36 - undefined_getter
+  error - The getter 'items' isn't defined for the type 'InventoryState' - lib\features\inventory\presentation\pages\inventory_demo_page.dart:101:40 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\pages\inventory_demo_page.dart:272:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\pages\inventory_details_page.dart:117:39 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\pages\inventory_list_page.dart:22:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\inventory\presentation\pages\inventory_list_page.dart:50:17 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\pages\inventory_list_page.dart:94:49 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\inventory\presentation\pages\stock_adjustment_page.dart:102:23 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\consumption_chart.dart:163:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_app_bar.dart:21:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_app_bar.dart:34:69 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_app_bar.dart:78:32 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_app_bar.dart:80:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_app_bar.dart:100:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_greeting.dart:25:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_main_stat_card.dart:49:65 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_main_stat_card.dart:58:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_main_stat_card.dart:117:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_main_stat_card.dart:118:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_stats_grid.dart:103:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_stats_grid.dart:123:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_stock_chart.dart:70:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_stock_chart.dart:112:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_weekly_chart.dart:73:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\dashboard_weekly_chart.dart:128:39 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\features\inventory\presentation\widgets\inventory_card.dart:20:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\inventory\presentation\widgets\inventory_card.dart:22:9 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\inventory\presentation\widgets\inventory_card.dart:24:9 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:57:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:75:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:121:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:140:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:151:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:167:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\inventory_card.dart:176:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\stat_card.dart:31:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\stat_card.dart:35:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\stat_card.dart:56:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\stock_overview_card.dart:50:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\inventory\presentation\widgets\stock_overview_card.dart:69:63 - deprecated_member_use
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:21:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:27:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\reports\presentation\bloc\reports_cubit.dart:34:11 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:38:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:42:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:69:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\reports\presentation\bloc\reports_cubit.dart:101:13 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\reports\presentation\bloc\reports_cubit.dart:104:13 - curly_braces_in_flow_control_structures
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:109:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:125:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\reports\presentation\bloc\reports_cubit.dart:129:7 - avoid_print
+   info - Statements in an if should be enclosed in a block - lib\features\reports\presentation\pages\reports_page.dart:62:11 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\features\reports\presentation\pages\reports_page.dart:65:11 - curly_braces_in_flow_control_structures
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\pages\reports_page.dart:222:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\consumption_chart.dart:29:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\consumption_chart.dart:93:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\consumption_chart.dart:94:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\loss_breakdown_list.dart:48:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\loss_breakdown_list.dart:53:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_bar_chart.dart:126:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_date_filter.dart:68:64 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_date_filter.dart:84:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_date_filter.dart:89:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_detailed_table.dart:21:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_detailed_table.dart:29:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_detailed_table.dart:47:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_detailed_table.dart:105:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_summary_grid.dart:69:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\reports_summary_grid.dart:90:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\summary_card.dart:33:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\summary_card.dart:42:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\reports\presentation\widgets\waste_chart.dart:91:43 - deprecated_member_use
+  error - The operator '+' isn't defined for the type 'FutureOr<double>' - lib\features\sales\data\datasources\consumption_log_local_datasource.dart:89:43 - undefined_operator
+  error - Target of URI hasn't been generated: 'package:coffee_app/features/sales/data/models/consumption_log_model.g.dart' - lib\features\sales\data\models\consumption_log_model.dart:6:6 - uri_has_not_been_generated
+  error - Target of URI hasn't been generated: 'package:coffee_app/features/sales/data/models/product_model.g.dart' - lib\features\sales\data\models\product_model.dart:6:6 - uri_has_not_been_generated
+  error - Target of URI hasn't been generated: 'package:coffee_app/features/sales/data/models/recipe_model.g.dart' - lib\features\sales\data\models\recipe_model.dart:4:6 - uri_has_not_been_generated
+  error - Target of URI hasn't been generated: 'package:coffee_app/features/sales/data/models/sale_item_model.g.dart' - lib\features\sales\data\models\sale_item_model.dart:5:6 - uri_has_not_been_generated
+  error - Undefined class 'SizeVariant' - lib\features\sales\data\models\sale_item_model.dart:71:3 - undefined_class
+  error - Undefined name 'SizeVariant' - lib\features\sales\data\models\sale_item_model.dart:72:12 - undefined_identifier
+  error - Undefined name 'SizeVariant' - lib\features\sales\data\models\sale_item_model.dart:74:21 - undefined_identifier
+  error - Undefined class 'SugarLevel' - lib\features\sales\data\models\sale_item_model.dart:78:3 - undefined_class
+  error - Undefined name 'SugarLevel' - lib\features\sales\data\models\sale_item_model.dart:79:12 - undefined_identifier
+  error - Undefined name 'SugarLevel' - lib\features\sales\data\models\sale_item_model.dart:81:21 - undefined_identifier
+  error - Target of URI hasn't been generated: 'package:coffee_app/features/sales/data/models/sale_transaction_model.g.dart' - lib\features\sales\data\models\sale_transaction_model.dart:7:6 - uri_has_not_been_generated
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:32:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:35:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:60:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:63:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:69:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:72:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:77:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\data\repositories\hive_sales_repository.dart:79:5 - avoid_print
+warning - Unused import: '../../../inventory/domain/entities/inventory_item_entity.dart' - lib\features\sales\domain\entities\recipe_entity.dart:2:8 - unused_import
+  error - Undefined class 'SaleStatus' - lib\features\sales\domain\repositories\sale_transaction_repository_interface.dart:15:45 - undefined_class
+  error - Undefined class 'SizeVariant' - lib\features\sales\domain\usecases\check_stock_availability_usecase.dart:67:14 - undefined_class
+  error - The argument type 'TransactionNotFoundException' can't be assigned to the parameter type 'DomainException'.  - lib\features\sales\domain\usecases\check_stock_availability_usecase.dart:202:24 - argument_type_not_assignable
+  error - The argument type 'InvalidReturnQuantityException' can't be assigned to the parameter type 'DomainException'.  - lib\features\sales\domain\usecases\check_stock_availability_usecase.dart:212:26 - argument_type_not_assignable
+  error - The argument type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\exceptions\domain_exceptions.dart)' can't be assigned to the parameter type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\value_objects\domain_exceptions.dart)'.  - lib\features\sales\domain\usecases\check_stock_availability_usecase.dart:251:22 - argument_type_not_assignable
+  error - Abstract classes can't be instantiated - lib\features\sales\domain\usecases\check_stock_availability_usecase.dart:253:22 - instantiate_abstract_class
+  error - The argument type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\exceptions\domain_exceptions.dart)' can't be assigned to the parameter type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\value_objects\domain_exceptions.dart)'.  - lib\features\sales\domain\usecases\check_stock_availability_usecase.dart:253:22 - argument_type_not_assignable
+  error - The argument type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\exceptions\domain_exceptions.dart)' can't be assigned to the parameter type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\value_objects\domain_exceptions.dart)'.  - lib\features\sales\domain\usecases\process_sale_consumption_usecase.dart:103:22 - argument_type_not_assignable
+  error - Abstract classes can't be instantiated - lib\features\sales\domain\usecases\process_sale_consumption_usecase.dart:105:22 - instantiate_abstract_class
+  error - The argument type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\exceptions\domain_exceptions.dart)' can't be assigned to the parameter type 'DomainException (where DomainException is defined in E:\army\coffee_app\lib\core\domain\value_objects\domain_exceptions.dart)'.  - lib\features\sales\domain\usecases\process_sale_consumption_usecase.dart:105:22 - argument_type_not_assignable
+  error - The argument type 'ValidationException' can't be assigned to the parameter type 'DomainException'.  - lib\features\sales\domain\usecases\process_sale_consumption_usecase.dart:203:22 - argument_type_not_assignable
+  error - The name 'ConcurrentModificationException' is defined in the libraries 'package:coffee_app/core/domain/exceptions/domain_exceptions.dart' and 'package:coffee_app/features/sales/domain/services/transaction_lock_manager.dart' - lib\features\sales\domain\usecases\process_sale_consumption_usecase.dart:243:28 - ambiguous_import
+   info - The imported package 'bloc' isn't a dependency of the importing package - lib\features\sales\presentation\bloc\sales_cubit.dart:3:8 - depend_on_referenced_packages
+warning - Unused import: 'package:coffee_app/features/inventory/domain/entities/stock_movement.dart' - lib\features\sales\presentation\bloc\sales_cubit.dart:4:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:37:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:41:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:46:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:54:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:59:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:68:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:80:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:84:9 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:96:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:98:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:104:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:106:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:112:5 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:119:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:123:9 - avoid_print
+   info - Unnecessary braces in a string interpolation - lib\features\sales\presentation\bloc\sales_cubit.dart:124:44 - unnecessary_brace_in_string_interps
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\bloc\sales_cubit.dart:132:7 - avoid_print
+   info - The imported package 'freezed_annotation' isn't a dependency of the importing package - lib\features\sales\presentation\cubit\recipe_cubit.dart:2:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:coffee_app/features/sales/presentation/cubit/recipe_cubit.freezed.dart' - lib\features\sales\presentation\cubit\recipe_cubit.dart:8:6 - uri_does_not_exist
+  error - Classes can only mix in mixins and classes - lib\features\sales\presentation\cubit\recipe_cubit.dart:12:24 - mixin_of_non_class
+  error - The name '_RecipeState' isn't a type and can't be used in a redirected constructor - lib\features\sales\presentation\cubit\recipe_cubit.dart:23:8 - redirect_to_non_class
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:40:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:53:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:60:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:69:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:73:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:78:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:87:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:91:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:95:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:101:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:112:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:120:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:129:16 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:134:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:142:18 - undefined_method
+  error - The getter 'products' isn't defined for the type 'RecipeState' - lib\features\sales\presentation\cubit\recipe_cubit.dart:156:27 - undefined_getter
+   info - The imported package 'freezed_annotation' isn't a dependency of the importing package - lib\features\sales\presentation\cubit\sales_cubit.dart:2:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: '../../../core/domain/exceptions/domain_exceptions.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../core/domain/value_objects/money.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../core/services/domain_event_bus.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:5:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../inventory/domain/entities/inventory_item_entity.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:6:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../inventory/domain/usecases/inventory_usecases.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:7:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../domain/entities/consumption_log_entity.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:8:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../domain/entities/sale_item_entity.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:9:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../domain/entities/sale_transaction_entity.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:10:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../domain/usecases/check_stock_availability_usecase.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:11:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../domain/usecases/process_sale_consumption_usecase.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:12:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: 'package:coffee_app/features/sales/presentation/cubit/sales_cubit.freezed.dart' - lib\features\sales\presentation\cubit\sales_cubit.dart:14:6 - uri_does_not_exist
+  error - Classes can only mix in mixins and classes - lib\features\sales\presentation\cubit\sales_cubit.dart:18:23 - mixin_of_non_class
+  error - The name 'SaleItem' isn't a type, so it can't be used as a type argument - lib\features\sales\presentation\cubit\sales_cubit.dart:20:23 - non_type_as_type_argument
+  error - The name '_SalesState' isn't a type and can't be used in a redirected constructor - lib\features\sales\presentation\cubit\sales_cubit.dart:25:8 - redirect_to_non_class
+  error - Undefined class 'SaleTransaction' - lib\features\sales\presentation\cubit\sales_cubit.dart:31:9 - undefined_class
+  error - The name 'DomainException' isn't a type, so it can't be used as a type argument - lib\features\sales\presentation\cubit\sales_cubit.dart:32:14 - non_type_as_type_argument
+  error - Undefined class 'InventoryStatus' - lib\features\sales\presentation\cubit\sales_cubit.dart:49:9 - undefined_class
+  error - Undefined class 'ProcessSaleConsumptionUseCase' - lib\features\sales\presentation\cubit\sales_cubit.dart:62:9 - undefined_class
+  error - Undefined class 'CheckStockAvailabilityUseCase' - lib\features\sales\presentation\cubit\sales_cubit.dart:63:9 - undefined_class
+  error - Undefined class 'CheckLowStockUseCase' - lib\features\sales\presentation\cubit\sales_cubit.dart:64:9 - undefined_class
+  error - Undefined class 'DomainEventBus' - lib\features\sales\presentation\cubit\sales_cubit.dart:65:9 - undefined_class
+  error - Undefined class 'ProcessSaleConsumptionUseCase' - lib\features\sales\presentation\cubit\sales_cubit.dart:68:14 - undefined_class
+  error - Undefined class 'CheckStockAvailabilityUseCase' - lib\features\sales\presentation\cubit\sales_cubit.dart:69:14 - undefined_class
+  error - Undefined class 'CheckLowStockUseCase' - lib\features\sales\presentation\cubit\sales_cubit.dart:70:14 - undefined_class
+  error - Undefined class 'DomainEventBus' - lib\features\sales\presentation\cubit\sales_cubit.dart:71:14 - undefined_class
+  error - Undefined class 'SaleItem' - lib\features\sales\presentation\cubit\sales_cubit.dart:79:30 - undefined_class
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:92:18 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:98:16 - undefined_method
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:99:31 - undefined_getter
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:107:29 - undefined_getter
+warning - Dead code - lib\features\sales\presentation\cubit\sales_cubit.dart:110:7 - dead_code
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:110:18 - undefined_method
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:116:37 - undefined_getter
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:118:29 - undefined_getter
+warning - Dead code - lib\features\sales\presentation\cubit\sales_cubit.dart:120:5 - dead_code
+warning - The receiver is of type 'Never', and will never complete with a value - lib\features\sales\presentation\cubit\sales_cubit.dart:120:27 - receiver_of_type_never
+warning - The receiver is of type 'Never', and will never complete with a value - lib\features\sales\presentation\cubit\sales_cubit.dart:122:20 - receiver_of_type_never
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:127:16 - undefined_method
+  error - Undefined class 'Money' - lib\features\sales\presentation\cubit\sales_cubit.dart:136:3 - undefined_class
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:137:18 - undefined_getter
+  error - Undefined name 'Money' - lib\features\sales\presentation\cubit\sales_cubit.dart:138:7 - undefined_identifier
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:148:15 - undefined_getter
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:149:18 - undefined_method
+  error - The getter 'isProcessing' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:153:15 - undefined_getter
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:155:16 - undefined_method
+  error - The method 'SaleTransaction' isn't defined for the type 'SalesCubit' - lib\features\sales\presentation\cubit\sales_cubit.dart:159:27 - undefined_method
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:161:22 - undefined_getter
+  error - Undefined name 'SaleStatus' - lib\features\sales\presentation\cubit\sales_cubit.dart:166:17 - undefined_identifier
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:172:22 - undefined_getter
+  error - Undefined name 'SaleStatus' - lib\features\sales\presentation\cubit\sales_cubit.dart:200:21 - undefined_identifier
+  error - The method 'InventoryConsumedEvent' isn't defined for the type 'SalesCubit' - lib\features\sales\presentation\cubit\sales_cubit.dart:206:24 - undefined_method
+  error - The method 'LowStockDetectedEvent' isn't defined for the type 'SalesCubit' - lib\features\sales\presentation\cubit\sales_cubit.dart:212:26 - undefined_method
+  error - The method 'SaleCompletedEvent' isn't defined for the type 'SalesCubit' - lib\features\sales\presentation\cubit\sales_cubit.dart:215:24 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:230:20 - undefined_method
+  error - The method 'copyWith' isn't defined for the type 'SalesState' - lib\features\sales\presentation\cubit\sales_cubit.dart:237:18 - undefined_method
+  error - The name 'DomainException' isn't a type, so it can't be used as a type argument - lib\features\sales\presentation\cubit\sales_cubit.dart:244:8 - non_type_as_type_argument
+  error - Undefined class 'DomainException' - lib\features\sales\presentation\cubit\sales_cubit.dart:244:40 - undefined_class
+  error - The name 'ValidationException' isn't defined, so it can't be used in an 'is' expression - lib\features\sales\presentation\cubit\sales_cubit.dart:245:18 - type_test_with_undefined_name
+   info - Unnecessary override - lib\features\sales\presentation\cubit\sales_cubit.dart:256:16 - unnecessary_overrides
+  error - Target of URI doesn't exist: '../../../core/domain/exceptions/domain_exceptions.dart' - lib\features\sales\presentation\pages\consumption_demo_page.dart:3:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../core/domain/value_objects/money.dart' - lib\features\sales\presentation\pages\consumption_demo_page.dart:4:8 - uri_does_not_exist
+  error - Target of URI doesn't exist: '../../../injection_consumption.dart' - lib\features\sales\presentation\pages\consumption_demo_page.dart:5:8 - uri_does_not_exist
+   info - Parameter 'key' could be a super parameter - lib\features\sales\presentation\pages\consumption_demo_page.dart:12:9 - use_super_parameters
+  error - The method 'getIt' isn't defined for the type 'ConsumptionDemoPage' - lib\features\sales\presentation\pages\consumption_demo_page.dart:17:22 - undefined_method
+   info - Parameter 'key' could be a super parameter - lib\features\sales\presentation\pages\consumption_demo_page.dart:24:9 - use_super_parameters
+  error - The getter 'lastResult' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:42:21 - undefined_getter
+  error - The getter 'lastResult' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:43:23 - undefined_getter
+  error - The getter 'lastResult' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:44:49 - undefined_getter
+  error - The getter 'lastResult' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:46:47 - undefined_getter
+  error - The getter 'stockAlerts' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:50:21 - undefined_getter
+  error - The getter 'stockAlerts' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:51:48 - undefined_getter
+  error - The getter 'currentItems' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:76:32 - undefined_getter
+  error - The getter 'isProcessing' isn't defined for the type 'SalesState' - lib\features\sales\presentation\pages\consumption_demo_page.dart:77:39 - undefined_getter
+  error - The method 'Money' isn't defined for the type 'ConsumptionDemoView' - lib\features\sales\presentation\pages\consumption_demo_page.dart:124:32 - undefined_method
+  error - The method 'Money' isn't defined for the type 'ConsumptionDemoView' - lib\features\sales\presentation\pages\consumption_demo_page.dart:138:32 - undefined_method
+  error - The method 'Money' isn't defined for the type 'ConsumptionDemoView' - lib\features\sales\presentation\pages\consumption_demo_page.dart:152:32 - undefined_method
+  error - Undefined class 'Money' - lib\features\sales\presentation\pages\consumption_demo_page.dart:170:14 - undefined_class
+  error - Undefined class 'Money' - lib\features\sales\presentation\pages\consumption_demo_page.dart:248:14 - undefined_class
+  error - The name 'DomainException' isn't a type, so it can't be used as a type argument - lib\features\sales\presentation\pages\consumption_demo_page.dart:314:52 - non_type_as_type_argument
+  error - The property 'message' can't be unconditionally accessed because the receiver can be 'null' - lib\features\sales\presentation\pages\consumption_demo_page.dart:324:34 - unchecked_use_of_nullable_value
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\widgets\add_sale_bottom_sheet.dart:29:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\widgets\add_sale_bottom_sheet.dart:47:7 - avoid_print
+   info - Don't invoke 'print' in production code - lib\features\sales\presentation\widgets\add_sale_bottom_sheet.dart:67:9 - avoid_print
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\add_sale_button.dart:19:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_card.dart:22:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_card.dart:32:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_card.dart:55:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_stat_card.dart:26:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_stat_card.dart:28:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_stat_card.dart:35:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\sales_stat_card.dart:48:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\stat_card.dart:21:54 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\stat_card.dart:24:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\stat_card.dart:34:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\sales\presentation\widgets\stat_card.dart:50:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\pages\settings_page.dart:168:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\pages\settings_page.dart:175:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\pages\settings_page.dart:201:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\pages\settings_page.dart:202:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\pages\settings_page.dart:207:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\pages\settings_page.dart:208:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\widgets\profile_header.dart:62:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\widgets\settings_category.dart:42:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\features\settings\presentation\widgets\settings_category.dart:71:59 - deprecated_member_use
+warning - Unused import: 'package:hive/hive.dart' - lib\injection_consumption.dart:2:8 - unused_import
+   info - Don't invoke 'print' in production code - lib\main.dart:39:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:42:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:45:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:54:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:57:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:59:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:61:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:63:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:65:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:67:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:70:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:74:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:77:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:80:3 - avoid_print
+   info - Don't invoke 'print' in production code - lib\main.dart:82:3 - avoid_print
+  error - The argument type 'InventoryCubit (where InventoryCubit is defined in E:\army\coffee_app\lib\features\inventory\presentation\bloc\inventory_cubit.dart)' can't be assigned to the parameter type 'InventoryCubit (where InventoryCubit is defined in E:\army\coffee_app\lib\features\inventory\presentation\cubit\inventory_cubit.dart)'.  - lib\main.dart:118:33 - argument_type_not_assignable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:74:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:83:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:90:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:115:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:122:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:154:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:168:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:175:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\dashboard_shimmer.dart:184:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\inventory_shimmer.dart:38:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\inventory_shimmer.dart:53:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\inventory_shimmer.dart:60:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\inventory_shimmer.dart:70:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\inventory_shimmer.dart:77:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\inventory_shimmer.dart:89:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\reports_shimmer.dart:68:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\reports_shimmer.dart:77:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\reports_shimmer.dart:84:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\reports_shimmer.dart:109:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\reports_shimmer.dart:128:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:83:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:90:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:97:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:122:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:137:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:144:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:158:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\sales_shimmer.dart:165:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:49:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:64:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:71:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:78:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:88:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:113:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:134:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:143:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:150:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:179:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\presentation\widgets\shimmers\settings_shimmer.dart:187:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\shared\widgets\custom_app_bar.dart:25:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\shared\widgets\custom_app_bar.dart:28:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\shared\widgets\empty_state_widget.dart:40:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\shared\widgets\empty_state_widget.dart:67:60 - deprecated_member_use
+   info - Don't invoke 'print' in production code - refactor_blocs.dart:82:7 - avoid_print
+
+465 issues found. (ran in 9.1s)
